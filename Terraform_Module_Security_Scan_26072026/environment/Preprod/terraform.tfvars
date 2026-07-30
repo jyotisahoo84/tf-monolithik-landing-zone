@@ -4,8 +4,13 @@ res_grp = {
     location = "centralindia"
   }
 
-  rg1 = {
+  rg2 = {
     name     = "rg-dev"
+    location = "centralindia"
+  }
+
+  rg3 = {
+    name     = "rg-humana-dev"
     location = "centralindia"
   }
 }
