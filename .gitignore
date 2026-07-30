@@ -1,8 +1,6 @@
 # Local .terraform directories
 .terraform/
-.terraform.lock.hcl
-gitleaks-report.json
-.gitleaks.toml
+
 
 # .tfstate files
 *.tfstate
@@ -18,6 +16,9 @@ crash.*.log
 # to change depending on the environment.
 #*.tfvars
 *.tfvars.json
+*.terraform.lock.hcl
+*gitleaks-report.json
+*.gitleaks.toml
 
 # Ignore override files as they are usually used to override resources locally and so
 # are not checked in
