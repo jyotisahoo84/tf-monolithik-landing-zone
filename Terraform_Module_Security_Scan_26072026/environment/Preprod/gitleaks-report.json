@@ -1,0 +1,42 @@
+[
+ {
+  "RuleID": "terraform-password",
+  "Description": "Terraform password",
+  "StartLine": 130,
+  "EndLine": 130,
+  "StartColumn": 6,
+  "EndColumn": 34,
+  "Match": "password    = \"Password1234!\"",
+  "Secret": "password    = \"Password1234!\"",
+  "File": "terraform.tfvars",
+  "SymlinkFile": "",
+  "Commit": "",
+  "Entropy": 3.7679935,
+  "Author": "",
+  "Email": "",
+  "Date": "",
+  "Message": "",
+  "Tags": [],
+  "Fingerprint": "terraform.tfvars:terraform-password:130"
+ },
+ {
+  "RuleID": "terraform-password",
+  "Description": "Terraform password",
+  "StartLine": 142,
+  "EndLine": 142,
+  "StartColumn": 6,
+  "EndColumn": 34,
+  "Match": "password    = \"Password1234!\"",
+  "Secret": "password    = \"Password1234!\"",
+  "File": "terraform.tfvars",
+  "SymlinkFile": "",
+  "Commit": "",
+  "Entropy": 3.7679935,
+  "Author": "",
+  "Email": "",
+  "Date": "",
+  "Message": "",
+  "Tags": [],
+  "Fingerprint": "terraform.tfvars:terraform-password:142"
+ }
+]

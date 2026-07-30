@@ -1,0 +1,3 @@
+variable "res_grp" {
+  
+}

@@ -1,0 +1,3 @@
+variable "net_int" {
+  
+}
